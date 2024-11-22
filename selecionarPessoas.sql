@@ -13,3 +13,6 @@ where E.id_equipe is null;
 
 select  id_pessoa, nome
 from pessoa;
+
+
+
